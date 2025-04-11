@@ -1,5 +1,7 @@
 # 🎉 EventSphere – Open Source Event & Community Platform
 
+# author Abhishek Swarnakar
+
 ## 🔍 Overview
 **EventSphere** is a free and open-source web application designed for **universities, colleges, and organizations** to simplify event management, foster community engagement, and automate routine administrative tasks using **RPA**.
 
